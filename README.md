@@ -77,12 +77,14 @@ The script will guide you through:
 
 ## Architecture Principles
 
-Following **Basecamp's Omarchy** philosophy:
+Following **Basecamp's Omarchy** philosophy ([omarchy.org](https://omarchy.org)):
 
 - **Clear Boundaries** - Each module has a single responsibility
 - **Minimal Interfaces** - Simple function signatures and data flow
 - **No Premature Abstraction** - Concrete solutions over generic frameworks
 - **Fail Fast** - Early validation with clear error messages
+
+*Built with ❤️ following [Omarchy principles](https://omarchy.org) for maintainable software architecture*
 
 ## State Management
 
